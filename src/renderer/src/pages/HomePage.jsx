@@ -60,7 +60,7 @@ const HomePage = () => {
           </a>
 
           <a
-            href="#learn-more"
+            href="/test-form"
             className="px-10 py-4 rounded-2xl font-semibold text-lg text-gray-200
                        border border-white/40 bg-white/10
                        hover:bg-white/20 hover:text-white
