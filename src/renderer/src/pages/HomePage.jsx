@@ -49,7 +49,7 @@ const HomePage = () => {
         {/* Buttons */}
         <div className="flex justify-center gap-6 mt-6 flex-wrap">
           <a
-            href="/Env/Home"
+            href="/login"
             className="group px-10 py-4 rounded-2xl font-semibold text-lg text-white
                        bg-gradient-to-r from-gray-900 to-gray-700
                        shadow-lg hover:shadow-2xl hover:scale-105
